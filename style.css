@@ -1,0 +1,23 @@
+.col {
+    border: 1px black solid;
+    width: 90px!important;
+    height: 90px;
+}
+img {
+    /*width: 100%;*/
+    height: 100%;
+}
+
+.cur{
+    background: #2f71a4;
+}
+.green{
+    background: #76a484;
+    cursor: pointer;
+}
+.exit{
+    border-bottom: 5px red solid;
+}
+.wall{
+    background: #a44c2a;
+}
